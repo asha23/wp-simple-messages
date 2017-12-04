@@ -1,0 +1,17 @@
+#toplevel_page_wp_list_messages .dashicons-admin-generic:before {
+	content: "\f473";
+}
+.messages-container {
+	padding-right:30px!important;
+}
+
+.wp-list-table {
+	border-radius:12px;
+	border:none!important;
+	margin-top:20px;
+	margin-bottom:15px;
+}
+
+.column-id {
+	width:20px!important;
+}
